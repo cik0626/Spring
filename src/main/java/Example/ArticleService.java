@@ -1,4 +1,4 @@
-package org.shw.jdbc.spring.chap3;
+package Example;
 
 public class ArticleService {
 	MemberDao memberDao;

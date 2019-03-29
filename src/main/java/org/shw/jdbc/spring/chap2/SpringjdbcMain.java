@@ -1,4 +1,4 @@
-package org.shw.jdbc.spring;
+package org.shw.jdbc.spring.chap2;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

@@ -1,4 +1,4 @@
-package org.shw.jdbc.spring;
+package org.shw.jdbc.spring.chap2;
 
 public class Greeter {
 	public Greeter() {
