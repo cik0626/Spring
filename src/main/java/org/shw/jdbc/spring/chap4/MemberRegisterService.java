@@ -43,4 +43,4 @@ public class MemberRegisterService {
 		memberDao.insert(newMember);
 		logger.debug("회원 정보를 저장했습니다.");
 	}
-}
+} 

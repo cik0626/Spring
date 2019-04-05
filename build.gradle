@@ -66,4 +66,3 @@ task runArticleMainUsingSpring (type: JavaExec) {
 	main = 'org.jacob.jdbc.spring.ArticleMainUsingSpring'
 	classpath =  sourceSets.main.runtimeClasspath
 }
-}

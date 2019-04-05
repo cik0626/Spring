@@ -5,4 +5,4 @@
  * @author shw
  *
  */
-package org.shw.jdbc.spring.chap4; 
+package org.shw.jdbc.spring.chap8;

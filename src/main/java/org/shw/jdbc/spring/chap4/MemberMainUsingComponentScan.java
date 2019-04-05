@@ -28,4 +28,4 @@ public class MemberMainUsingComponentScan {
 		regService.regist(req);
 		ctx.close();
 	}
-}
+} 
